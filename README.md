@@ -1,2 +1,1 @@
-# homerunmarketclone
-this is clone of site of home run market
+this design is of famous website " home run markets "
